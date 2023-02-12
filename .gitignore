@@ -29,3 +29,5 @@ FactoryMethod/obj/Debug/net7.0/FactoryMethod.GlobalUsings.g.cs
 FactoryMethod/obj/Debug/net7.0/FactoryMethod.pdb
 Builder/bin/
 Builder/obj/
+Prototype/obj/
+Prototype/bin/
