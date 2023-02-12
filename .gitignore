@@ -31,3 +31,5 @@ Builder/bin/
 Builder/obj/
 Prototype/obj/
 Prototype/bin/
+Singleton/obj/
+Singleton/bin/
