@@ -27,3 +27,5 @@ FactoryMethod/obj/Debug/net7.0/FactoryMethod.GeneratedMSBuildEditorConfig.editor
 FactoryMethod/obj/Debug/net7.0/FactoryMethod.genruntimeconfig.cache
 FactoryMethod/obj/Debug/net7.0/FactoryMethod.GlobalUsings.g.cs
 FactoryMethod/obj/Debug/net7.0/FactoryMethod.pdb
+Builder/bin/
+Builder/obj/
