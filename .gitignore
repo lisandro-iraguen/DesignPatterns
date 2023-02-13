@@ -35,3 +35,13 @@ Singleton/obj/
 Singleton/bin/
 Adapter/obj/
 Adapter/bin/
+Bridge/obj/
+Bridge/bin/
+Composite/obj/
+Decorator/bin/
+Decorator/obj/
+Fecade/bin/
+Fecade/obj/
+Proxy/obj/
+Proxy/bin/
+Composite/bin/
