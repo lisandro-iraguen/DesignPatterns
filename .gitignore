@@ -45,3 +45,15 @@ Fecade/obj/
 Proxy/obj/
 Proxy/bin/
 Composite/bin/
+ChainOfResponsibility/bin/
+ChainOfResponsibility/obj/
+Command/obj/
+Command/bin/
+Mediator/bin/
+Mediator/obj/
+Observer/obj/
+Observer/bin/
+Strategy/obj/
+TemplateMethod/bin/
+TemplateMethod/obj/
+Strategy/bin/
