@@ -59,3 +59,5 @@ TemplateMethod/obj/
 Strategy/bin/
 Visitor/obj/
 Visitor/bin/
+State/obj/
+State/bin/
